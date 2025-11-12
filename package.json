@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^16.25.0",
+    "stylelint-config-tailwindcss": "^1.0.0"
+  }
 }
